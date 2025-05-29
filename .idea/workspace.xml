@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8f86721e-debc-4548-b373-590f90fa41c3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Portfolio.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/.Rhistory" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/.idea/harsha_manjunatha.github.io-main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/Reports/Final_Report.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/Reports/M4Project_Jain.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Certi/365.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Certi/Cousera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Certi/Standford.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Certi/datacamp.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Certi/deeplearning.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Certi/google.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Certi/linkedin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Certi/nvidia.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Certi/penn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Certi/sasbadge.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Certi/tableau2_new.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Certi/tableau_new.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Certi/udacity.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Certi/udemy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Certi/uipath.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Collaborations/KaggleDays.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Collaborations/Oxford.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Collaborations/Waterloo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Collaborations/acm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Collaborations/anaconda.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Collaborations/bit_mesra.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Collaborations/csi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Collaborations/gtc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Collaborations/ieee.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Collaborations/iitg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Collaborations/manipal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Collaborations/microsoft_oxford.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Collaborations/mlh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Collaborations/noroff.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Collaborations/northeastern.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Collaborations/odsc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Collaborations/siggraph.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Education/IIITB.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Education/NEU.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Education/SPPU.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Education/sait.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Extras/Kaggle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Footer/medium.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Footer/w&amp;b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Footer/zhp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/PoR/Stuco_small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/PoR/makermela.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Portfolio_picture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Work Experience/NEU1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Work Experience/idfc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Work Experience/ptw.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/Work Experience/ptw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/icon.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/img/overlay-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/bootstrap/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/bootstrap/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/bootstrap/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/bootstrap/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/counterup/jquery.counterup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/counterup/jquery.counterup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/font-awesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/font-awesome/css/font-awesome.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/font-awesome/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/ionicons/css/ionicons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/ionicons/css/ionicons.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/ionicons/fonts/ionicons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/ionicons/fonts/ionicons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/ionicons/fonts/ionicons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/ionicons/fonts/ionicons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/jquery.easing/jquery.easing.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/jquery/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/jquery/jquery.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/owl.carousel/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/owl.carousel/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/owl.carousel/assets/ajax-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/owl.carousel/assets/owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/owl.carousel/assets/owl.carousel.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/owl.carousel/assets/owl.theme.default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/owl.carousel/assets/owl.theme.default.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/owl.carousel/assets/owl.theme.green.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/owl.carousel/assets/owl.theme.green.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/owl.carousel/assets/owl.video.play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/owl.carousel/owl.carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/owl.carousel/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/php-email-form/changelog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/php-email-form/validate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/typed.js/typed.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/typed.js/typed.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/typed.js/typed.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/venobox/venobox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/venobox/venobox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/venobox/venobox.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/venobox/venobox.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/assets/vendor/waypoints/jquery.waypoints.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harsha_manjunatha/index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2vs7GehtcuE0VkjdvmER5IH6cWj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;H:/Portfolio&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f86721e-debc-4548-b373-590f90fa41c3" name="Changes" comment="" />
+      <created>1744921833984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744921833984</updated>
+    </task>
+    <servers />
+  </component>
+</project>
